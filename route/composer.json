@@ -1,4 +1,9 @@
 {
-    "name": "acme/hello-world",
-    "version": "1.0.0"
+    "name": "haloyaf/route",
+    "autoload": {
+        "psr-4": {
+            "Haloyaf\\Route\\": "src/"
+        }
+    },
+    "require": {}
 }
