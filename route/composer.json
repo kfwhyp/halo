@@ -1,9 +1,0 @@
-{
-    "name": "haloyaf/route",
-    "autoload": {
-        "psr-4": {
-            "Haloyaf\\Route\\": "src/"
-        }
-    },
-    "require": {}
-}
